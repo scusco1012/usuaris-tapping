@@ -1,6 +1,6 @@
 {
-    "laboratori_a": {
-        "password": "PasswordSegur123",
+    "stmuser1": {
+        "password": "tappinguser1",
         "active": true
     }
 }
