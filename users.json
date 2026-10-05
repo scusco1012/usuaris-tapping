@@ -2,5 +2,9 @@
     "stmuser1": {
         "password": "tappinguser1",
         "active": true
+    },
+    "subhadra": {
+        "password": "stmtapping26",
+        "active": true
     }
 }
