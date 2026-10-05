@@ -1,9 +1,17 @@
 {
-    "stmuser1": {
-        "password": "tappinguser1",
+    "oriolclopponsa": {
+        "password": "stmtapping26",
         "active": true
     },
     "subhadra": {
+        "password": "stmtapping26",
+        "active": true
+    },
+    "albertcortijos": {
+        "password": "stmtapping26",
+        "active": true
+    },
+    "saracuscorovira": {
         "password": "stmtapping26",
         "active": true
     }
